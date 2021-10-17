@@ -1,4 +1,6 @@
 # Predict Hotel Rating from reviews
+![NUX_Octodex](https://user-images.githubusercontent.com/64835443/137617657-bdc4dcdf-617c-4b0c-a811-02891277be27.gif)
+
 - Steps followed in this notebook
   - Data Cleaning
   - Tokenization
